@@ -13,11 +13,10 @@ int main() {
     //and feed those input into a, b, c, d, e, respectively.
     //only ONE line code is you need
     //please refer page 18 of slides
-    while(scanf("%d%d%d%d%d",&a,&b,&c,&d,&e)){
-        printf("%d\n", a);
-        printf("%d\n", b);
-        printf("%d\n", c);
-        printf("%d\n", d);
-        printf("%d\n", e);
-    }
+    scanf("%d%d%d%d%d",&a,&b,&c,&d,&e);
+    printf("%d\n", a);
+    printf("%d\n", b);
+    printf("%d\n", c);
+    printf("%d\n", d);
+    printf("%d\n", e);
 }
