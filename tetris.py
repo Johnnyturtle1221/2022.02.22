@@ -339,16 +339,3 @@ if __name__ == "__main__":
     Tetris(10,25).run()
 
 #Special add to try pull requests
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Loading complete
